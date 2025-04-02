@@ -10,9 +10,6 @@
 # My Skill (Programming Languages, Frameworks and Tools)
 
 <img src="https://skillicons.dev/icons?i=unity" /> <br /><br />
-
-  ※Another skill and tools
-  Codeigniter, Virtual Box, CakePHP, CircleCI and so on.
   
 # NOW TRAINING
 
