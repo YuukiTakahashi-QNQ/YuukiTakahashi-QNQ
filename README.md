@@ -5,7 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuukiTakahashi-QNQ&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YuukiTakahashi-QNQ&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=YuukiTakahashi-QNQ&theme=discord)](https://github.com/YuukiTakahashi-QNQ/github-profile-trophy)
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
